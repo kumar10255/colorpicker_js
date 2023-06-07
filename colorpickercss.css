@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-color {
+    background-color: white;
+    height: 100vh;
+    width: cover;
+}
+
+.bg-head {
+    text-align: center;
+    padding: 15px;
+    font-weight: bold;
+}
+
+.button-color1 {
+    background-color: #e0e0e0;
+    height: 75px;
+    width: 75px;
+    text-align: center;
+    border-radius: 15px;
+    margin: 5px;
+    border-color: black;
+    border-style: solid;
+}
+
+.button-color2 {
+    background-color: #6fcf97;
+    height: 75px;
+    width: 75px;
+    text-align: center;
+    border-radius: 15px;
+    margin: 5px;
+    border-color: black;
+    border-style: solid;
+}
+
+.button-color3 {
+    background-color: #56ccf2;
+    height: 75px;
+    width: 75px;
+    text-align: center;
+    border-radius: 15px;
+    margin: 6px;
+    border-color: black;
+    border-style: solid;
+}
+
+.button-color4 {
+    background-color: #bb6bd9;
+    height: 75px;
+    width: 75px;
+    text-align: center;
+    border-radius: 15px;
+    margin: 5px;
+    border-color: black;
+    border-style: solid;
+}
+
+.span-element {
+    color: white;
+    background-color: #222222;
+    height: 70px;
+    font-family: Open Sans;
+    font-size: 23px;
+    text-align: center;
+    font-weight: 500;
+    border-radius: 10px;
+    padding-top: 10px;
+    margin: 5px;
+}
+
+.span-text-color {
+    color: #49a6e9;
+    font-weight: bold;
+}
+
+.para-style {
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 17px;
+}
